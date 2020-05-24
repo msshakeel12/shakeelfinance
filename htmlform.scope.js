@@ -28,7 +28,7 @@ console.log("you here");
 
       let p = space.pointer.$max(0, 0).$min( space.size );
       let r1 = Rectangle.fromTopLeft( [0,0], space.size );
-      let r1Alt = Rectangle.fromTopLeft( [10,0], [p.x, p.y] );
+      let r1Alt = Rectangle.fromTopLeft( [8,0], [p.x, p.y] );
       let r2 = Rectangle.fromTopLeft( [p.x, 0], space.size );
 
       // Draw first rectangle(s)
