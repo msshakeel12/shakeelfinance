@@ -176,13 +176,14 @@ top: 0;
 }
 
 .about-heading h1{
+    letter-spacing: 4px;
     color: black;
     font-size:3rem;
     opacity:.3;
 }
 
 .about-heading h6{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 400;
     color: rgba(20, 12, 53, 0.877);
 }
