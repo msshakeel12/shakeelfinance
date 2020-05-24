@@ -98,7 +98,7 @@ img{
 }
 
 .section-heading h6{
-    color: #221e3f;
+    color: #3f2ec0;
     font-size: 1.6rem;
     font-weight: 300;
 }
@@ -183,8 +183,8 @@ top: 0;
 
 .about-heading h6{
     font-size: 1.2rem;
-    font-weight: 300;
-    color: black;
+    font-weight: 400;
+    color: rgba(20, 12, 53, 0.877);
 }
  
 .about-details p{
