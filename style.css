@@ -227,6 +227,7 @@ top: 0;
 
 /* facts */
 section.facts{
+    background-color: #f7f7f7;
     width: 100%;
     margin-bottom: 0;
 }
@@ -308,7 +309,9 @@ section.facts{
     transform: rotate(-45deg);
 }
 
-
+section.services{
+    background-color: #f7f7f7;
+}
 section.portfolio{
     background-color: #fff;
 }
